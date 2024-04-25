@@ -1,0 +1,26 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: bisque;
+}
+
+h1.Heading, h2.Heading{
+    color: brown;
+    text-align: center;
+}
+
+.Image{
+    display: block;
+    margin: auto;
+}
+
+.Button{
+    background-color: brown;
+    color: wheat;
+    border-radius: 10px;
+    font-size: 25px;
+    display: block;
+    margin: auto;
+}
